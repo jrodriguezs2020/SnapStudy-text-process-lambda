@@ -1,0 +1,38 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de dependencias compiladas
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Archivos de configuración local
+*.env
+*.local
+*.log
+
+# Archivos de herramientas y IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos de salida
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Archivos de Jupyter y caché de IPython
+.ipynb_checkpoints/
+.profile_default/
+.pytest_cache/
+
+# Dependencias descargadas
+*.whl
+pip-wheel-metadata/
+site/
